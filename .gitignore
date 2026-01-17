@@ -1,0 +1,10 @@
+# Mac system files
+.DS_Store
+
+# Virtual Environment
+venv/
+__pycache__/
+
+# Large Data & Models
+dataset/
+artifacts/
