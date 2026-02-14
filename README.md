@@ -2,7 +2,7 @@
 
 **Cinema AI** is a next-generation movie recommendation engine featuring a stunning **Glassmorphism UI**. It uses **Content-Based Filtering** to suggest movies based on plot, genre, and cast similarity, while fetching real-time data (posters, ratings, runtime) via the **OMDb API**.
 
-🚀 **Live Demo:** [Insert Your Streamlit App Link Here]
+🚀 **Live Demo:** [https://movie-recommender-afrhxfgn66sagczr9sephb.streamlit.app/]
 
 ---
 
@@ -42,3 +42,4 @@ movie-recommender/
     ├── sim_1.pkl           # 🧩 Similarity Matrix Chunk 1
     ├── ...                 # ... (Chunks 2-28)
     └── sim_29.pkl          # 🧩 Similarity Matrix Chunk 29
+
